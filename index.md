@@ -4,18 +4,11 @@ title: About me
 cover: true
 ---
 
-I'm a Research Fellow at Data61, CSIRO ([ICV group](https://research.csiro.au/icv/)). I received my Ph.D. from Monash University (Australia), supervised by A/Prof. [Mehrtash Harandi](https://scholar.google.com/citations?user=Z9gvBegAAAAJ&hl=en) and Prof. [Tom Drummond](https://scholar.google.com/citations?user=6sWGL5wAAAAJ&hl=en). I completed my bachelor degree at Monash University and Central University (2+2 program). My previous research interest largely lies in efficient adaptation algorithms for deep learning models (Few-Shot Learning) in the context of computer vision.   
-
-Now, I'm currently interested and have been working on:
-* 3D scene reconstruction and novel view synthesis (Neural Radiance Field).
-* 3D reconstruction of surfaces/dense point cloud from imges.
+I am a PhD candidate at AID-LAB, [the University of Sydney](https://www.sydney.edu.au/), under the supervision of Dr. [Anusha Withana](https://scholar.google.com/citations?user=y17ckyIAAAAJ&hl=en&oi=ao) and Prof. [Judy Kay](https://scholar.google.com/citations?user=4lr4HzgAAAAJ&hl=en&oi=ao). My academic background includes a Master's degree from the University of Sydney and a Bachelor's degree from Monash University. In the field of Human-Computer Interaction, my research is centered on Soft Sensors, Epidermal Sensors, and Smart Textiles. I am dedicated to creating interfaces that seamlessly meld with the human body, enhancing user-technology interactions in everyday life.
 
 ## Recent News
-* I will join Nvidia as a senior machine learning engineer next year! (Shanghai)
-* I joined CSIRO as a Research Fellow since Feb, 2023 (Brisbane).
-* I completed the Ph.D degree in Dec, 2022 (Melbourne).
-
-<audio autoplay="autoplay"> <source src="/assets/audio/sleeping_lotus.mp3" type="audio/mp3"> </audio>
+* I will join Keio University as a Visiting Researcher from March to May 2024. (Tokyo)
+* I submitted my Ph.D. thesis in January 2024. (Sydney)
 
 ## Recent Research Highlights
 

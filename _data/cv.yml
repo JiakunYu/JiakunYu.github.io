@@ -1,38 +1,42 @@
 before-pubs:
   -
-    heading: Internship
-    items:
-      -
-        title: Research Engineer
-        year: 2017
-        detail: Monash University Robotic Lab
-  -
     heading: Education
     items:
       -
-        title: Ph.D
-        year: Mar, 2019 &ndash; Dec, 2022
-        detail: Monash University (ECSE)
+        title: <b>Doctor of Philosophy</b>
+        year: 2024
+        detail: The University of Sydney
       -
-        title: B.E
-        year: 2016
-        detail: Monash University (ECSE)
+        title: <b>Master of Data Science</b>
+        year: 2019
+        detail: The University of Sydney
       -
-        title: B.E
-        year: 2013
-        detail: Central South University (EE)
+        title: <b>Bachelor of Engineering (Honors)</b>
+        year: 2018
+        detail: Monash University
+  -
+    heading: Internship
+    items:
+      -
+        title: Automobile Engineer Internship
+        year: 2019
+        detail: China Chang'an Automobile Group Company
+      -
+        title: Assistant Product Manager
+        year: 2017
+        detail: Talkweb Information System Company
 after-pubs:
   - 
     heading: Awards 
     items:
       -
-        title: International Postgraduate Tuition Scholarship
-        year: 2019
-        detail: Monash University
+        title: Faculty of Engineering Research Scholarship
+        year: 2020
+        detail: The University of Sydney
       -
-        title: Monash Graduate Scholarship
-        year: 2018
-        detail: Monash University
+        title: Faculty of Engineering Summer Research Program Scholarship
+        year: 2019
+        detail: The University of Sydney
   -
     heading: Teaching
     subsections:
@@ -40,8 +44,20 @@ after-pubs:
         heading: University courses
         items:
           -
-            title: "Artificial Neural Network and Deep Learning"
-            year: 2019
+            title: "Cyber Resilience: Management Governance and Acquisition"
+            year: 2023
+            detail: as TA
+          -
+            title: "Pervasive Computing"
+            year: 2022
+            detail: as TA
+          -
+            title: "Big Data and Data Diversity (Advanced)"
+            year: 2021
+            detail: as TA
+          -
+            title: "Data Science, Big Data and Data Variety"
+            year: 2021
             detail: as TA
   -
     heading: Service
@@ -51,11 +67,11 @@ after-pubs:
         items:
           -
             title: Reviewer
-            detail: AAAI, TIP
+            detail: MobileHCI, ISS
   -
-    heading: Working Experience
-    items:
-      -
-        title: Research Fellow
-        year: 2023&ndash;present
-        detail: Data61 ICVG
+    # heading: Working Experience
+    # items:
+    #   -
+    #     title: Research Fellow
+    #     year: 2023&ndash;present
+    #     detail: Data61 ICVG

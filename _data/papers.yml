@@ -1,47 +1,28 @@
 papers:
-  - layout: paper
-    paper-type: inproceedings
-    selected: yes
-    year: 2022
-    title: "Learning Instance and Task-Aware Dynamic Kernels for Few-Shot Learning"
-    authors: "Rongkai Ma, Pengfei Fang, Gil Avrahham, Yan Zuo, Tianyu Zhu, Tom Drummond, Mehrtash Harandi"
-    booktitle: "Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings"
-    doc-url: https://arxiv.org/abs/2112.03494
-    venue: conference
-  - layout: paper
-    paper-type: inproceedings
-    selected: yes
-    year: 2022
-    title: "Adaptive Poincaré point to set distance for few-shot classification"
-    authors: "Rongkai Ma, Pengfei Fang, Tom Drummond, Mehrtash Harandi"
-    booktitle: "Proceedings of the 36th AAAI conference on artificial intelligence"
-    doc-url: https://ojs.aaai.org/index.php/AAAI/article/view/20087
-    venue: conference
-  - layout: paper
-    paper-type: inproceedings
-    selected: yes
-    year: 2022
-    title: "Rethinking Generalization in Few-Shot Classification"
-    authors: "Markus Hiller*, Rongkai Ma*, Mehrtash Harandi, Tom Drummond"
-    booktitle: "Advances in Neural Information Processing Systems (NeurIPS) 35"
-    doc-url: https://arxiv.org/abs/2206.07267
-    venue: conference
-  - layout: paper
-    selected: yes
-    paper-type: inproceedings
-    year: 2022
-    title: "Looking beyond two frames: End-to-end multi-object tracking using spatial and temporal transformers"
-    authors: "Tianyu Zhu, Markus Hiller, Mahsa Ehsanpour, Rongkai Ma, Tom Drummond, Ian Reid, Hamid Rezatofighi"
-    booktitle: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
-    doc-url: https://ieeexplore.ieee.org/abstract/document/9914676
-    venue: journal
+  # - layout: paper
+  #   paper-type: inproceedings
+  #   selected: yes
+  #   year: 2022
+  #   title: "Rethinking Generalization in Few-Shot Classification"
+  #   authors: "Markus Hiller*, Rongkai Ma*, Mehrtash Harandi, Tom Drummond"
+  #   booktitle: "Advances in Neural Information Processing Systems (NeurIPS) 35"
+  #   doc-url: https://arxiv.org/abs/2206.07267
+  #   venue: conference
+  # - layout: paper
+  #   selected: yes
+  #   paper-type: inproceedings
+  #   year: 2022
+  #   title: "Looking beyond two frames: End-to-end multi-object tracking using spatial and temporal transformers"
+  #   authors: "Tianyu Zhu, Markus Hiller, Mahsa Ehsanpour, Rongkai Ma, Tom Drummond, Ian Reid, Hamid Rezatofighi"
+  #   booktitle: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  #   doc-url: https://ieeexplore.ieee.org/abstract/document/9914676
+  #   venue: journal
   - layout: paper
     paper-type: inproceedings
     selected: yes
     year: 2021
-    title: "Learning Online for Unified Segmentation and Tracking Models"
-    authors: "Tianyu Zhu*, Rongkai Ma*, Mehrtash Harandi, Tom Drummond"
-    booktitle: "2021 International Joint Conference on Neural Networks (IJCNN)"
-    doc-url: https://ieeexplore.ieee.org/abstract/document/9533455
-    venue: conference
-  
+    title: "Composite Line Designs and Accuracy Measurements for Tactile Line Tracing on Touch Surfaces"
+    authors: "Edwin Chau, <b>Jiakun Yu</b>, Cagatay Goncu, Anusha Withana"
+    booktitle: "Proceedings of the ACM on Human-Computer Interaction (PACMHCI)"
+    doc-url: https://dl.acm.org/doi/abs/10.1145/3488536
+    venue: both

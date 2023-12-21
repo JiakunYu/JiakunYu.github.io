@@ -23,5 +23,3 @@ order:  1
   </li>
 {% endfor %}
 </ul>
-
-<audio autoplay="autoplay"> <source src="/assets/audio/Biesy.mp3" type="audio/mp3"> </audio>
