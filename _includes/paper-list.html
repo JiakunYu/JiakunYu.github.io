@@ -4,7 +4,7 @@
     {% if paper.venue == include.venue %}
       <li>
       {% if paper.authors %}
-        {{ paper.authors | replace: 'With', 'Adam Lopez,' }}. 
+        {{ paper.authors }}.
       {% else %}
         Adam Lopez.
       {% endif %}
@@ -18,10 +18,9 @@
         {% when "article" %}
             <i>{{ paper.journal }}</i>,
             {% if paper.volume %}{{ paper.volume }}{% if paper.number %}({{ paper.number }}){% endif %}.{% endif %}
-            {% if paper.article%}Article {{ paper.article}}.{% endif %}
+            {% if paper.article %}Article {{ paper.article }}.{% endif %}
       {% endcase %}
       </li>
     {% endif %}
   {% endfor %}
 </ul>
-

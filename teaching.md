@@ -6,10 +6,12 @@ menu:   true
 order:  2
 ---
 
-> _Teaching is more than imparting knowledge; it is inspiring change. 
-> Learning is more than absorbing facts; it is acquiring understanding._
+> The most important day I remember in all my life is the one on which my teacher, 
+> Anne Mansfield Sullivan, came to me. 
+> I am filled with wonder when I consider the immeasurable contrasts between the two lives which it connects. 
+> It was the third of March, 1887, three months before I was seven years old.
 >
-> ---William Arthur Ward
+> --- Helen Keller
 
 ## Courses at the Monash Unversity
 * S1 2023 &ndash;: [ZEIT8018: Cyber Resilience: Management Governance and Acquisition](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/ZEIT8018) (TA)

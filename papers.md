@@ -6,15 +6,11 @@ menu:   true
 order:  1
 ---
 
-> _Do not believe in anything simply because you have heard it.
-> Do not believe in anything simply because it is spoken and rumored by many.
-> Do not believe in anything simply because it is found written in your religious books. 
-> Do not believe in anything merely on the authority of your teachers and elders.
-> Do not believe in traditions because they have been handed down for many generations.
-> But after observation and analysis, when you find that anything agrees with reason 
-> and is conducive to the good and benefit of one and all, then accept it and live up to it._
+> To explain all nature is too difficult a task for any one man or even for any one age. 
+> It's much better to do a little with certainty, and leave the rest for others that come after you, 
+> than to explain all things by conjecture without making sure of anything.
 >
-> ---Guatama Shakyamunis
+> --- Sir Isaac Newton
 
 <ul>
 {% for paper in site.data.papers.papers %}

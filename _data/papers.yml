@@ -13,10 +13,10 @@ papers:
     paper-type: inproceedings
     year: 2024
     title: "Fabricating Customizable 3D Printed Pressure Sensors by Tuning Infill Characteristics"
-    authors: "<b>Jiakun Yu</b>, Praneeth Bimsara Perera, Rahal Viddusha Perera, Mohammad Mirkhalaf and Anusha Withana"
-    booktitle: "IEEE Sensors Journal"
+    authors: "<b>Jiakun Yu</b>, Praneeth Bimsara Perera, Rahal Viddusha Perera, Mohammad Mirkhalaf, Anusha Withana"
+    booktitle: "IEEE Sensors Journal (IEEE Sens. J.)"
     doc-url: https://ieeexplore.ieee.org/document/10418152
-    venue: journal
+    venue: both
   - layout: paper
     paper-type: inproceedings
     selected: yes
