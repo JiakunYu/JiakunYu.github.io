@@ -8,15 +8,15 @@ papers:
   #   booktitle: "Advances in Neural Information Processing Systems (NeurIPS) 35"
   #   doc-url: https://arxiv.org/abs/2206.07267
   #   venue: conference
-  # - layout: paper
-  #   selected: yes
-  #   paper-type: inproceedings
-  #   year: 2022
-  #   title: "Looking beyond two frames: End-to-end multi-object tracking using spatial and temporal transformers"
-  #   authors: "Tianyu Zhu, Markus Hiller, Mahsa Ehsanpour, Rongkai Ma, Tom Drummond, Ian Reid, Hamid Rezatofighi"
-  #   booktitle: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
-  #   doc-url: https://ieeexplore.ieee.org/abstract/document/9914676
-  #   venue: journal
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2024
+    title: "Fabricating Customizable 3D Printed Pressure Sensors by Tuning Infill Characteristics"
+    authors: "<b>Jiakun Yu</b>, Praneeth Bimsara Perera, Rahal Viddusha Perera, Mohammad Mirkhalaf and Anusha Withana"
+    booktitle: "IEEE Sensors Journal"
+    doc-url: https://ieeexplore.ieee.org/document/10418152
+    venue: journal
   - layout: paper
     paper-type: inproceedings
     selected: yes
