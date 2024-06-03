@@ -7,7 +7,7 @@ papers:
     authors: "<b>Jiakun Yu</b>, Praneeth Bimsara Perera, Anusha Withana"
     booktitle: "Proceedings of the Augmented Humans International Conference (AHs '24)"
     doc-url: https://doi.org/10.1145/3652920.3653058
-    venue: conference
+    venue: both
   - layout: paper
     selected: yes
     paper-type: inproceedings
