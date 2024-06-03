@@ -5,7 +5,7 @@ papers:
     year: 2024
     title: "Tuning Infill Characteristics to Fabricate Customizable 3D Printed Pressure Sensors"
     authors: "<b>Jiakun Yu</b>, Praneeth Bimsara Perera, Anusha Withana"
-    booktitle: "Proceedings of the Augmented Humans International Conference 2024 (AHs '24)"
+    booktitle: "Proceedings of the Augmented Humans International Conference (AHs '24)"
     doc-url: https://doi.org/10.1145/3652920.3653058
     venue: conference
   - layout: paper
