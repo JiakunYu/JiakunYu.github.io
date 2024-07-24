@@ -43,8 +43,8 @@ author:
   social:
     email:              'jiakun.yu@sydney.edu.au'
     github:             JiakunYu
-    twitter:            Jiakun_Yu
-    linkedin:           jiakun-yu-4984a2b6
+    # twitter:            Jiakun_Yu
+    # linkedin:           jiakun-yu-4984a2b6
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
