@@ -3,6 +3,15 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2024
+    title: "IrOnTex: Using Ironable 3D Printed Objects to Fabricate and Prototype Customizable Interactive Textiles"
+    authors: "<b>Jiakun Yu</b>, Supun Kuruppu, Biyon Fernando, Praneeth Bimsara Perera, Yuta Sugiura, Sriram Subramanian, Anusha Withana"
+    booktitle: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)"
+    doc-url: https://doi.org/10.1145/3678543
+    venue: both
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2024
     title: "Tuning Infill Characteristics to Fabricate Customizable 3D Printed Pressure Sensors"
     authors: "<b>Jiakun Yu</b>, Praneeth Bimsara Perera, Anusha Withana"
     booktitle: "Proceedings of the Augmented Humans International Conference (AHs '24)"
