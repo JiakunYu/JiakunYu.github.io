@@ -252,12 +252,12 @@ plugins:
 #   publisher:           <id>
 #   admins:              <id>
 
-# Used on index and about sites
-social:
-  name:                Jiakun Yu
-  links:
-    - https://x.com/Jiakun_Yu
-    # - https://github.com/<username>
+# # Used on index and about sites
+# social:
+#   name:                Jiakun Yu
+#   links:
+#     - https://x.com/Jiakun_Yu
+#     # - https://github.com/<username>
 
 
 # Other Plugins
