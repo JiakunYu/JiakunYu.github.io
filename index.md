@@ -10,7 +10,7 @@ I completed my PhD (2024) on the topic [“Computational Design and Fabrication 
 * Oct 2024: Presented [IrOnTex](https://programs.sigchi.org/ubicomp-iswc/2024/program/content/174664) at UbiComp 2024!
 * Jul 2024: I was officially awarded a PhD by the University of Sydney!
 * Jul 2024: Our IrOnTex submission to UbiComp/IMWUT was accepted!
-* Mar-May 2024: I joined Keio University as a Visiting Researcher in Tokyo!
+* Mar - May 2024: I joined Keio University as a Visiting Researcher in Tokyo!
 * Jan 2024: I submitted my Ph.D. thesis to the University of Sydney!
 * Jan 2024: Our Infill Sensor submission to IEEE Sensor Journal was accepted!
 
