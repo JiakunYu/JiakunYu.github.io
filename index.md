@@ -8,7 +8,7 @@ I am currently a Postdoctoral Researcher at Purdue University's Institute for Ph
 
 I completed my PhD in 2024 at the University of Sydney, where my research focused on the [“Computational Design and Fabrication of Customizable Interactive Soft Devices”](https://ses.library.usyd.edu.au/handle/2123/32814), supervised by [A/Prof. Anusha Withana](https://scholar.google.com/citations?user=y17ckyIAAAAJ&hl=en&oi=ao) and [Prof. Judy Kay](https://scholar.google.com/citations?user=4lr4HzgAAAAJ&hl=en&oi=ao). I also hold a Master of Data Science from the University of Sydney and a Bachelor's in Electrical and Computer Systems Engineering from Monash University.
 
-My current research interests lie at the intersection of soft sensors, epidermal sensing technologies, and smart textiles. My goal is to develop wearable and body-integrated interfaces that enhance user-centric interactions and seamlessly blend technology with the human body.
+My current research interests lie at the intersection of soft sensors, epidermal sensing technologies, and smart textiles. My goal is to create interfaces that seamlessly integrate with the human body and improve user-centric interactions.
 
 ## Recent News
 * Dec 2024: Excited to share that I have accepted a Postdoctoral position at Purdue University. Starting Spring of 2025, I will be working with Dr. Liang He and Dr. Sooyeon Jeong!
