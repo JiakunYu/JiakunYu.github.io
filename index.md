@@ -4,7 +4,7 @@ title: About Me
 cover: true
 ---
 
-I am currently a Postdoctoral Researcher at Purdue University's Institute for Physical Artificial Intelligence ([IPAI](https://www.purdue.edu/computes/institute-for-physical-artificial-intelligence/)), working with [Prof. KARTHIK RAMANI ](https://engineering.purdue.edu/cdesign/wp/current-convergence-design-lab-members/) at the Convergence Design Lab and [Dr. Sooyeon Jeong](https://www.sooyeonjeong.com/) at the HAI Lab.
+I am currently a Postdoctoral Researcher at Purdue University's Institute for Physical Artificial Intelligence ([IPAI](https://www.purdue.edu/computes/institute-for-physical-artificial-intelligence/)), working with [Prof. Karthik Ramani](https://engineering.purdue.edu/cdesign/wp/current-convergence-design-lab-members/) at the Convergence Design Lab and [Dr. Sooyeon Jeong](https://www.sooyeonjeong.com/) at the HAI Lab.
 
 I completed my PhD in 2024 at the University of Sydney, where my research focused on the [“Computational Design and Fabrication of Customizable Interactive Soft Devices”](https://ses.library.usyd.edu.au/handle/2123/32814), supervised by [A/Prof. Anusha Withana](https://scholar.google.com/citations?user=y17ckyIAAAAJ&hl=en&oi=ao) and [Prof. Judy Kay](https://scholar.google.com/citations?user=4lr4HzgAAAAJ&hl=en&oi=ao). I also hold a Master of Data Science from the University of Sydney and a Bachelor's in Electrical and Computer Systems Engineering from Monash University.
 
