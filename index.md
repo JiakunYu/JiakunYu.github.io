@@ -11,7 +11,7 @@ I completed my PhD in 2024 at the University of Sydney, where my research focuse
 My current research interests lie at the intersection of soft sensors, epidermal sensing technologies, and smart textiles. My goal is to create interfaces that seamlessly integrate with the human body and improve user-centric interactions.
 
 ## Recent News
-* Dec 2024: Excited to share that I have accepted a Postdoctoral position at Purdue University. Starting Spring of 2025, I will be working with Dr. Liang He and Dr. Sooyeon Jeong!
+* Dec 2024: Excited to share that I have accepted a Postdoctoral position at Purdue University. Starting Spring of 2025, I will be working with Prof. Karthik Ramani, Dr. Sooyeon Jeong and Dr. Liang He!
 * Oct 2024: I presented [IrOnTex](https://programs.sigchi.org/ubicomp-iswc/2024/program/content/174664) at UbiComp 2024!
 * Jul 2024: I was officially awarded a PhD by the University of Sydney!
 * Jul 2024: Our IrOnTex submission to UbiComp/IMWUT was accepted!
