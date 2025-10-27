@@ -11,13 +11,15 @@ I completed my PhD in 2024 at the University of Sydney, where my research focuse
 My current research interests lie at the intersection of soft sensors, epidermal sensing technologies, and smart textiles. My goal is to create interfaces that seamlessly integrate with the human body and improve user-centric interactions.
 
 ## Recent News
-* [12/2024]\: Excited to share that I have accepted a Postdoctoral position at Purdue University. Starting Spring of 2025, I will be working with Prof. Karthik Ramani, Dr. Sooyeon Jeong, and Dr. Liang He!
-* [10/2024]\: I presented [IrOnTex](https://programs.sigchi.org/ubicomp-iswc/2024/program/content/174664) at UbiComp 2024!
-* [09/2024]\: I was officially awarded a PhD by the University of Sydney!
-* [07/2024]\: Our IrOnTex submission to UbiComp/IMWUT was accepted!
-* [03/2024]\: I joined Keio University as a Visiting Researcher in Tokyo!
-* [01/2024]\: I submitted my Ph.D. thesis to the University of Sydney!
-* [01/2024]\: Our Infill Sensor submission to the IEEE Sensor Journal was accepted!
+* [05/2025]\: Excited to join the Convergence Design Lab and work with [Prof. Karthik Ramani](https://scholar.google.com/citations?user=AUPTVF0AAAAJ&hl=en&oi=ao)!
+* [12/2024]\: Excited to share that I have accepted a Postdoctoral position at Purdue University. Starting Spring of 2025, I will be working with [Dr. Liang He](https://scholar.google.com/citations?hl=en&user=AXIunRIAAAAJ) and [Dr. Sooyeon Jeong](https://scholar.google.com/citations?user=obVs9ZAAAAAJ&hl=en&oi=ao)!
+* [10/2024]\: Presented [IrOnTex](https://programs.sigchi.org/ubicomp-iswc/2024/program/content/174664) at UbiComp 2024!
+* [09/2024]\: Officially awarded my PhD from the University of Sydney!
+* [07/2024]\: The IrOnTex submission to UbiComp/IMWUT was accepted!
+* [04/2024]\: Gave an invited talk at the [Lifestyle Computing Lab](https://lclab.org/), Keio University. Thanks to Prof. Yuta Sugiura for hosting!
+* [03/2024]\: Joined Keio University as a Visiting Researcher for two months!
+* [01/2024]\: Submitted my Ph.D. thesis to the University of Sydney!
+* [01/2024]\: The Infill Sensor submission to the IEEE Sensor Journal was accepted!
 
 ## Recent Research Highlights
 
