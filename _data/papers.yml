@@ -2,6 +2,15 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
+    year: 2025
+    title: "Designing Multi-DoF Epidermal Bend Sensors Using Flexible Resistive Traces"
+    authors: "<b>Jiakun Yu</b>, Hasindu Kariyawasam, Shuying Wu, Sriram Subramanian, Anusha Withana"
+    booktitle: "IEEE Sensors Journal (IEEE Sens. J.)"
+    doc-url: http://doi.org/10.1109/JSEN.2025.3623068
+    venue: both
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
     year: 2024
     title: "IrOnTex: Using Ironable 3D Printed Objects to Fabricate and Prototype Customizable Interactive Textiles"
     authors: "<b>Jiakun Yu</b>, Supun Kuruppu, Biyon Fernando, Praneeth Bimsara Perera, Yuta Sugiura, Sriram Subramanian, Anusha Withana"
