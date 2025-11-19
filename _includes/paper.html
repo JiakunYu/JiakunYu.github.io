@@ -1,67 +1,18 @@
-<div class="pub-card">
-  {% if include.paper.image %}
-    <div class="pub-card-image">
-      <img src="{{ include.paper.image | relative_url }}" alt="teaser of {{ include.paper.title }}">
-    </div>
-  {% endif %}
-
-  <div class="pub-card-body">
-    <div class="pub-venue">
-      {%- if include.paper.conference_short -%}
-        {{ include.paper.conference_short }}
-      {%- elsif include.paper.booktitle -%}
-        {{ include.paper.booktitle }}
-      {%- elsif include.paper.journal -%}
-        {{ include.paper.journal }}
-      {%- endif -%}
-      {% if include.paper.year %}, {{ include.paper.year }}{% endif %}
-    </div>
-
-    <div class="pub-title">
-      {% if include.paper.doc-url %}
-        <a href="{{ include.paper.doc-url }}">{{ include.paper.title }}</a>
-      {% else %}
-        {{ include.paper.title }}
-      {% endif %}
-    </div>
-
-    {% if include.paper.authors %}
-      <div class="pub-authors">
-        {{ include.paper.authors }}
-      </div>
-    {% endif %}
-
-    <div class="pub-links">
-      {% if include.paper.pdf %}
-        <a class="pub-btn" href="{{ include.paper.pdf }}">PDF</a>
-      {% endif %}
-      {% if include.paper.supp %}
-        <a class="pub-btn" href="{{ include.paper.supp }}">Supp</a>
-      {% endif %}
-      {% if include.paper.supp2 %}
-        <a class="pub-btn" href="{{ include.paper.supp2 }}">Supp2</a>
-      {% endif %}
-      {% if include.paper.video %}
-        <a class="pub-btn" href="{{ include.paper.video }}">Video</a>
-      {% endif %}
-      {% if include.paper.page %}
-        <a class="pub-btn" href="{{ include.paper.page }}">Page</a>
-      {% endif %}
-      {% if include.paper.code %}
-        <a class="pub-btn" href="{{ include.paper.code }}">Code</a>
-      {% endif %}
-      {% if include.paper.data %}
-        <a class="pub-btn" href="{{ include.paper.data }}">Dataset</a>
-      {% endif %}
-      {% if include.paper.bibtex %}
-        <a class="pub-btn" href="{{ include.paper.bibtex }}">BibTeX</a>
-      {% endif %}
-    </div>
-
-    {% if include.paper.note %}
-      <div class="pub-notes">
-        {{ include.paper.note }}
-      </div>
-    {% endif %}
-  </div>
-</div>
+{% if include.paper.doc-url %}<a href="{{ include.paper.doc-url }}">{% endif %}
+  {{ include.paper.title }}{% if include.paper.doc-url %}</a>{% endif %}<br/>
+{% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}  
+{% case include.paper.paper-type %}
+  {% when "inproceedings" %}
+    In <i>{{ include.paper.booktitle }}</i>.
+  {% when "article" %}
+    In <i>{{ include.paper.journal }}</i>,
+      {% if include.paper.volume %}{{ include.paper.volume }}{% endif %}{% if include.paper.number %}({{ include.paper.number }}){% endif %}
+      {% if include.paper.article%}: Article {{ include.paper.article}},{% endif %}
+      {% if include.paper.pages %}: pages {{ include.paper.pages }},{% endif %}.
+  {% when "dissertation" %}
+    Dissertation, {{ include.paper.institution }}.
+{% endcase %} 
+{{ include.paper.year }}. 
+{% if include.paper.note %} 
+  {{ include.paper.note }} 
+{% endif %}
