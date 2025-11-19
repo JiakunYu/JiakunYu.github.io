@@ -1,8 +1,6 @@
-Publications
-
 {% for link in site.data.papers.papers %}
 
-<div class="pub-row" style="margin-bottom: 20px;">
+<div class="pub-row" style="display:flex; align-items:center; margin-bottom:20px;">
 
   <div style="flex: 0 0 240px; margin-right: 15px;">
     {% if link.image %}
