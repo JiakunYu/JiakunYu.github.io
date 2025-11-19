@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Research
+permalink: /publications/
 cover:  false
 menu:   true
 order:  1
@@ -12,10 +13,4 @@ order:  1
 >
 > --- Sir Isaac Newton
 
-<ul>
-{% for paper in site.data.papers.papers %}
-  <li>
-  {% include paper.html paper=paper %}
-  </li>
-{% endfor %}
-</ul>
+{% include_relative _includes/publications.md %}
