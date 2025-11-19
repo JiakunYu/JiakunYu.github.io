@@ -7,6 +7,7 @@ papers:
     authors: "<b>Jiakun Yu</b>, Hasindu Kariyawasam, Shuying Wu, Sriram Subramanian, Anusha Withana"
     booktitle: "IEEE Sensors Journal (IEEE Sens. J.)"
     doc-url: http://doi.org/10.1109/JSEN.2025.3623068
+    image: /assets/img/IEEE_Stretch.png
     venue: both
   - layout: paper
     paper-type: inproceedings
@@ -16,6 +17,7 @@ papers:
     authors: "<b>Jiakun Yu</b>, Supun Kuruppu, Biyon Fernando, Praneeth Bimsara Perera, Yuta Sugiura, Sriram Subramanian, Anusha Withana"
     booktitle: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)"
     doc-url: https://doi.org/10.1145/3678543
+    image: /assets/img/irontex.gif
     venue: both
   - layout: paper
     paper-type: inproceedings
@@ -25,6 +27,7 @@ papers:
     authors: "<b>Jiakun Yu</b>, Praneeth Bimsara Perera, Anusha Withana"
     booktitle: "Proceedings of the Augmented Humans International Conference (AHs '24)"
     doc-url: https://doi.org/10.1145/3652920.3653058
+    image: /assets/img/IEEE_Infill.png
     venue: both
   - layout: paper
     selected: yes
@@ -34,6 +37,7 @@ papers:
     authors: "<b>Jiakun Yu</b>, Praneeth Bimsara Perera, Rahal Viddusha Perera, Mohammad Mirkhalaf, Anusha Withana"
     booktitle: "IEEE Sensors Journal (IEEE Sens. J.)"
     doc-url: https://ieeexplore.ieee.org/document/10418152
+    image: /assets/img/IEEE_Infill.png
     venue: both
   - layout: paper
     paper-type: inproceedings
@@ -43,4 +47,5 @@ papers:
     authors: "Edwin Chau, <b>Jiakun Yu</b>, Cagatay Goncu, Anusha Withana"
     booktitle: "Proceedings of the ACM on Human-Computer Interaction (PACMHCI)"
     doc-url: https://dl.acm.org/doi/abs/10.1145/3488536
+    image: /assets/img/tactile_2021.png
     venue: both
