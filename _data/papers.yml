@@ -21,7 +21,7 @@ papers:
     venue: both
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2024
     title: "Tuning Infill Characteristics to Fabricate Customizable 3D Printed Pressure Sensors"
     authors: "<b>Jiakun Yu</b>, Praneeth Bimsara Perera, Anusha Withana"
