@@ -11,6 +11,7 @@ I completed my PhD in 2024 at the University of Sydney, where my research focuse
 My current research interests lie at the intersection of soft sensors, epidermal sensing technologies, and smart textiles. My goal is to create interfaces that seamlessly integrate with the human body and improve user-centric interactions.
 
 ## Recent News
+* [11/2025]\: Gave an [invited talk](https://drive.google.com/file/d/1FTujEDXci6vtUYeT01cINqRYXcVCNb3u/view?usp=sharing) at the [IPAI](https://www.purdue.edu/computes/institute-for-physical-artificial-intelligence/). Thanks to Prof. Ananth Grama for hosting!
 * [10/2025]\: Excited to share that two papers were accepted this month: one in the IEEE Sensors Journal and the other at the TEI 2026 conference!
 * [05/2025]\: Excited to join the Convergence Design Lab and work with [Prof. Karthik Ramani](https://scholar.google.com/citations?user=AUPTVF0AAAAJ&hl=en&oi=ao)!
 * [12/2024]\: Excited to share that I have accepted a Postdoctoral position at Purdue University. Starting Spring of 2025, I will be working with [Dr. Liang He](https://scholar.google.com/citations?hl=en&user=AXIunRIAAAAJ) and [Dr. Sooyeon Jeong](https://scholar.google.com/citations?user=obVs9ZAAAAAJ&hl=en&oi=ao)!
