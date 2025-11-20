@@ -5,9 +5,10 @@ papers:
     year: 2025
     title: "Designing Multi-DoF Epidermal Bend Sensors Using Flexible Resistive Traces"
     authors: "<b>Jiakun Yu</b>, Hasindu Kariyawasam, Shuying Wu, Sriram Subramanian, Anusha Withana"
-    booktitle: "IEEE Sensors Journal (IEEE Sens. J.)"
+    booktitle: "IEEE Sensors Journal"
     doc-url: http://doi.org/10.1109/JSEN.2025.3623068
     image: /assets/img/IEEE_Stretch.png
+    badge: "IEEE Sens. J."
     venue: both
   - layout: paper
     paper-type: inproceedings
@@ -18,6 +19,7 @@ papers:
     booktitle: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)"
     doc-url: https://doi.org/10.1145/3678543
     image: /assets/img/irontex.gif
+    badge: "IMWUT (UbiComp '24)"
     venue: both
   # - layout: paper
   #   paper-type: inproceedings
@@ -35,9 +37,10 @@ papers:
     year: 2024
     title: "Fabricating Customizable 3D Printed Pressure Sensors by Tuning Infill Characteristics"
     authors: "<b>Jiakun Yu</b>, Praneeth Bimsara Perera, Rahal Viddusha Perera, Mohammad Mirkhalaf, Anusha Withana"
-    booktitle: "IEEE Sensors Journal (IEEE Sens. J.)"
+    booktitle: "IEEE Sensors Journal"
     doc-url: https://ieeexplore.ieee.org/document/10418152
     image: /assets/img/IEEE_Infill.png
+    badge: "IEEE Sens. J."
     venue: both
   - layout: paper
     paper-type: inproceedings
@@ -45,7 +48,8 @@ papers:
     year: 2021
     title: "Composite Line Designs and Accuracy Measurements for Tactile Line Tracing on Touch Surfaces"
     authors: "Edwin Chau, <b>Jiakun Yu</b>, Cagatay Goncu, Anusha Withana"
-    booktitle: "Proceedings of the ACM on Human-Computer Interaction (PACMHCI)"
+    booktitle: "Proceedings of the ACM on Human-Computer Interaction"
     doc-url: https://dl.acm.org/doi/abs/10.1145/3488536
     image: /assets/img/tactile_2021.png
+    badge: "PACMHCI (ISS '21)"
     venue: both
