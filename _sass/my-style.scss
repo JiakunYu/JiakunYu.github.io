@@ -1,8 +1,8 @@
 .pub-card {
   display: flex;
   align-items: flex-start;
-  gap: 1rem;
-  margin-bottom: 1.5rem;
+  gap: 1.4rem;
+  margin-bottom: 2rem;
   padding: 0.75rem 0.9rem;
   background: #ffffff;
   border-radius: 10px;
@@ -22,12 +22,13 @@
 
 .pub-content {
   flex: 1;
-  line-height: 1.5;
+  font-size: 0.92rem;
+  line-height: 1.6;
 }
 
 papertitle {
   font-weight: 600;
-  font-size: 100%;
+  font-size: 0.98rem;
   color: #13294B;
 }
 
@@ -64,3 +65,4 @@ papertitle {
     width: 100%;
   }
 }
+
