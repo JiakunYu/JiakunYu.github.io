@@ -7,7 +7,10 @@
       <div class="pub-badge">{{ link.badge }}</div>
     {% endif %}
     {% if link.image %}
-      <img src="{{ link.image | relative_url }}" alt="teaser of {{ link.title }}">
+      <img src="{{ link.image | relative_url }}"
+           alt="teaser of {{ link.title }}"
+           loading="eager"
+           decoding="sync">
     {% endif %}
   </div>
 
