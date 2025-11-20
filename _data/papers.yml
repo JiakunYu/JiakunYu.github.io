@@ -16,7 +16,7 @@ papers:
     year: 2024
     title: "IrOnTex: Using Ironable 3D Printed Objects to Fabricate and Prototype Customizable Interactive Textiles"
     authors: "<b>Jiakun Yu</b>, Supun Kuruppu, Biyon Fernando, Praneeth Bimsara Perera, Yuta Sugiura, Sriram Subramanian, Anusha Withana"
-    booktitle: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)"
+    booktitle: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
     doc-url: https://doi.org/10.1145/3678543
     image: /assets/img/irontex.gif
     badge: "IMWUT (UbiComp '24)"
