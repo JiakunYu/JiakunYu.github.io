@@ -1,14 +1,17 @@
 {% for link in site.data.papers.papers %}
 
-<div class="pub-row" style="display:flex; align-items:center; margin-bottom:20px;">
+<div class="pub-card">
 
-  <div style="flex: 0 0 240px; margin-right: 15px;">
+  <div class="pub-image-wrapper">
+    {% if link.badge %}
+      <div class="pub-badge">{{ link.badge }}</div>
+    {% endif %}
     {% if link.image %}
       <img src="{{ link.image | relative_url }}" alt="teaser of {{ link.title }}">
     {% endif %}
   </div>
 
-  <div style="flex: 1;">
+  <div class="pub-content">
     <papertitle>
       {% if link.doc-url %}
         <a href="{{ link.doc-url }}">{{ link.title }}</a>
