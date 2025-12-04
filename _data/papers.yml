@@ -64,4 +64,6 @@ papers:
     doc-url: https://dl.acm.org/doi/abs/10.1145/3488536
     image: /assets/img/tactile_2021.png
     badge: "PACMHCI (ISS '21)"
+    video: /assets/video/VisualToTactile.mp4
+    pdf: /assets/pdf/VisualToTactile.pdf
     venue: both
