@@ -9,6 +9,7 @@ papers:
     doc-url: https://arxiv.org/abs/2512.02911
     image: /assets/img/FluxLab.jpg
     badge: "TEI '26"
+    video: https://www.youtube.com/watch?v=2m_OXJLXWdw
     venue: both
   - layout: paper
     paper-type: inproceedings
