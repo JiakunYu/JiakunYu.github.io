@@ -9,6 +9,7 @@ papers:
     doc-url: https://arxiv.org/abs/2512.02911
     image: /assets/img/FluxLab.jpg
     badge: "TEI '26"
+    pdf: /assets/pdf/FluxLab.pdf
     video: https://www.youtube.com/watch?v=2m_OXJLXWdw
     venue: both
   - layout: paper
@@ -21,6 +22,7 @@ papers:
     doc-url: http://doi.org/10.1109/JSEN.2025.3623068
     image: /assets/img/IEEE_Stretch.png
     badge: "IEEE Sens. J."
+    pdf: /assets/pdf/StretchSensor.pdf
     venue: both
   - layout: paper
     paper-type: inproceedings
@@ -32,6 +34,7 @@ papers:
     doc-url: https://doi.org/10.1145/3678543
     image: /assets/img/irontex.gif
     badge: "IMWUT (UbiComp '24)"
+    pdf: /assets/pdf/IrOnTex.pdf
     venue: both
   # - layout: paper
   #   paper-type: inproceedings
@@ -53,6 +56,7 @@ papers:
     doc-url: https://ieeexplore.ieee.org/document/10418152
     image: /assets/img/IEEE_Infill.png
     badge: "IEEE Sens. J."
+    pdf: /assets/pdf/InfillSensor.pdf
     venue: both
   - layout: paper
     paper-type: inproceedings
@@ -64,6 +68,6 @@ papers:
     doc-url: https://dl.acm.org/doi/abs/10.1145/3488536
     image: /assets/img/tactile_2021.png
     badge: "PACMHCI (ISS '21)"
-    video: /assets/video/VisualToTactile.mp4
     pdf: /assets/pdf/VisualToTactile.pdf
+    video: /assets/video/VisualToTactile.mp4
     venue: both
