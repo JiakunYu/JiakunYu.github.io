@@ -9,9 +9,8 @@ order: 3
 ## Professional Service
 
 ### Meta Reviewer
-```text
-2026 | *Associate Chair (AC)*, Posters, CHI 2026
-```
+2026 | **Associate Chair (AC)**, Posters, CHI 2026
+
 ### Reviewer
 ```text
 2026 | CHI: The ACM Conference on Human Factors in Computing Systems (Full Papers)
