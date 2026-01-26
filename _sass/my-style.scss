@@ -1,3 +1,7 @@
+/* ===========================
+   Publication cards
+=========================== */
+
 .pub-card {
   display: flex;
   align-items: flex-start;
@@ -43,6 +47,7 @@ papertitle {
   font-size: 0.78rem;
 }
 
+/* badge slightly lower */
 .pub-badge {
   position: absolute;
   top: 15px;
@@ -67,21 +72,34 @@ papertitle {
 }
 
 
-/* Tight spacing on the Service page (headings + code blocks) */
-.page-service h3 {           /* ### headings */
-  margin-top: 1.1rem;
-  margin-bottom: 0.4rem;
+/* ===========================
+   Service page spacing fix
+   (Hydejack robust version)
+=========================== */
+
+/* Section titles */
+#_main h2 {
+  margin-top: 1.2rem;
+  margin-bottom: 0.5rem;
 }
 
-.page-service h2 {           /* ## headings */
-  margin-top: 1.6rem;
-  margin-bottom: 0.6rem;
+#_main h3 {
+  margin-top: 0.9rem;
+  margin-bottom: 0.35rem;
 }
 
-.page-service pre {          /* code block container */
-  margin: 0.35rem 0 0.9rem;
+/* Code block layout (your year | role blocks) */
+#_main pre {
+  margin: 0.25rem 0 0.55rem;
+  padding: 0.6rem 0.8rem;
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.035);
+  font-size: 0.9rem;
+  line-height: 1.55;
 }
 
-
-
-
+/* KEY: tighten gap between blocks and next section */
+#_main pre + h3,
+#_main pre + h2 {
+  margin-top: 0.55rem;
+}
