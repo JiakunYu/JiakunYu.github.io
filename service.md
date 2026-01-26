@@ -14,10 +14,12 @@ order: 3
 ```
 ### Reviewer
 ```text
-2026 | CHI (Full Papers)
-2024 | CHI (LBW)
-2023 | MobileHCI (LBW)
-2022 | ISS (Full Papers)
+2026 | CHI: The ACM Conference on Human Factors in Computing Systems (Full Papers)
+2025 | HEALTH: ACM Transactions on Computing for Healthcare
+2024 | IEEE Sensors Journal
+2024 | CHI: The ACM Conference on Human Factors in Computing Systems (LBW)
+2023 | MobileHCI: The Conference on Mobile Human-Computer Interaction (LBW)
+2022 | ISS: ACM Interactive Surfaces and Spaces (Full Papers)
 ```
 ### Volunteer
 ```text
@@ -26,5 +28,7 @@ order: 3
 
 ## Invited Talks
 ```text
-Fall 2024 | Columbia University — Computational Fabrics: As a Ubiquitous Sensing Platform
+Nov 2025 | Purdue University — Soft Wearable Interfaces as Multimodal Platforms for AI-Enhanced Sports Skill Learning
+Oct 2024 | UbiComp/ISWC '24 — IrOnTex: Using Ironable 3D Printed Objects to Fabricate and Prototype Customizable Interactive Textiles
+Apr 2024 | Keio University — Computational Design and Fabrication of Customizable Interactive Soft Devices
 ```
