@@ -3,6 +3,19 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2026
+    title: "AgentCoach: LLM-Based Adaptive Coaching Feedback for Motor Skill Learning"
+    authors: "Dizhi Ma*, <b>Jiakun Yu*</b>, Xinyi Wang, Xiyun Hu, Liang He, Sooyeon Jeong, Karthik Ramani"
+    booktitle: "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"
+    # doc-url: https://arxiv.org/abs/2512.02911
+    image: /assets/img/AgentCoach.png
+    badge: "CHI '26"
+    # pdf: /assets/pdf/FluxLab.pdf
+    # video: https://www.youtube.com/watch?v=2m_OXJLXWdw
+    venue: both
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2026
     title: "FluxLab: Creating 3D Printable Shape-Changing Devices with Integrated Deformation Sensing"
     authors: "Hsuanling Lee, <b>Jiakun Yu</b>, Shurui Zheng, Te-Yan Wu, Liang He"
     booktitle: "Proceedings of the Twentieth International Conference on Tangible, Embedded, and Embodied Interaction"
