@@ -37,6 +37,14 @@ My current research interests lie at the intersection of soft sensors, epidermal
 
 ---
 
-## Visitors
+<hr>
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=a&t=n&d=pLtd0lFZyO9n3spxA4C4EIDUr4nR-oVgbEfLavmJqGc&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<h2>Visitors</h2>
+
+<div class="visitor-map">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?cl=080808&w=a&t=n&d=pLtd0lFZyO9n3spxA4C4EIDUr4nR-oVgbEfLavmJqGc&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080">
+  </script>
+</div>
