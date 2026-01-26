@@ -10,28 +10,20 @@ order: 3
 
 ### Associate Chair / Meta Reviewer
 ```text
-2027 | Workshop Chair, IUI 2027
-2026 | Associate Chair (AC), Full Papers, UIST 2026
-2026 | Associate Chair (AC), Full Papers, CHI 2026
-2026 | Program Committee Member, Full Papers, IUI 2026
-2025 | Associate Chair (AC), Posters, UIST 2025
-2025 | Associate Chair (AC), Full Papers, CHI 2025
-2024 | Accessibility Co-Chair, CHI 2024
-2024 | Associate Chair (AC), Late-Breaking Work (SIGCHI Short Paper), CHI 2024
+2026 | Associate Chair (AC), Posters, CHI 2026
 ```
 
 ### Reviewer
 ```text
 2026 | CHI (Full Papers)
-2024 | ACM UIST
-2023 | IEEE ICRA
-2025 | IEEE ICRA
+2024 | CHI (LBW)
+2023 | MobileHCI (LBW)
+2022 | ISS (Full Papers)
 ```
 
 ### Volunteer
 ```text
-2024 | Session Chair, ACM UbiComp 2024
-2021 | Student Volunteer, ACM MobiSys 2021
+2020 | Student Volunteer, The ACM International Conference on Tangible, Embedded and Embodied Interaction (TEI)
 ```
 
 ## Invited Talks
