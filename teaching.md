@@ -2,7 +2,7 @@
 layout: page
 title:  Teaching
 cover:  false
-menu:   false
+menu:   true
 order:  2
 ---
 
