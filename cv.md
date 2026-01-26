@@ -7,5 +7,5 @@ order: 6
 ---
 
 <script>
-  window.location.replace("/assets/pdf/cv.pdf");
+  window.location.replace("/assets/pdf/CV.pdf");
 </script>
