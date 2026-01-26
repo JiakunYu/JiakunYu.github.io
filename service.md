@@ -2,17 +2,16 @@
 layout: page
 title: Service
 cover: false
-menu: true
+menu: false
 order: 3
 ---
 
 ## Professional Service
 
-### Associate Chair / Meta Reviewer
-- Proc. ACM IMWUT (UbiComp), **Associate Editor**, 2024–present
+### Associate Chair
+- **Associate Chair (AC), Posters**, ACM CHI Conference on Human Factors in Computing Systems (CHI), 2026
 
 ### Reviewer
-- ACM UbiComp/IMWUT (2020, 2022–2025)
 - ACM CHI (2020, 2023–2025)
 - ACM UIST (2024)
 - IEEE ICRA (2023, 2025)
