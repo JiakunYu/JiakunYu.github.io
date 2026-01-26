@@ -2,23 +2,39 @@
 layout: page
 title: Service
 cover: false
-menu: false
+menu: true
 order: 3
 ---
 
 ## Professional Service
 
-### Associate Chair
-- **Associate Chair (AC), Posters**, ACM CHI Conference on Human Factors in Computing Systems (CHI), 2026
+### Associate Chair / Meta Reviewer
+
+| Year | Role |
+| --- | --- |
+| 2027 | Workshop Chair, IUI 2027 |
+| 2026 | Associate Chair (AC), Full Papers, UIST 2026 |
+| 2026 | Associate Chair (AC), Full Papers, CHI 2026 |
+| 2024 | Accessibility Co-Chair, CHI 2024 |
+| 2024 | Associate Chair (AC), Late-Breaking Work (SIGCHI Short Paper), CHI 2024 |
 
 ### Reviewer
-- ACM CHI (2020, 2023–2025)
-- ACM UIST (2024)
-- IEEE ICRA (2023, 2025)
+
+| Year | Venue |
+| --- | --- |
+| 2026 | CHI (Full Papers) |
+| 2024 | ACM UIST |
+| 2023, 2025 | IEEE ICRA |
 
 ### Volunteer
-- Session Chair, ACM UbiComp 2024
-- Student Volunteer, ACM MobiSys 2021
+
+| Year | Role |
+| --- | --- |
+| 2024 | Session Chair, ACM UbiComp 2024 |
+| 2021 | Student Volunteer, ACM MobiSys 2021 |
 
 ## Invited Talks
-- **Fall 2024**, Columbia University — *Computational Fabrics: As a Ubiquitous Sensing Platform*
+
+| Term | Talk |
+| --- | --- |
+| Fall 2024 | Columbia University — *Computational Fabrics: As a Ubiquitous Sensing Platform* |
