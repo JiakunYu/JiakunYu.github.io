@@ -12,7 +12,7 @@ order: 3
 - 2026 \| **Associate Chair (AC)**, Posters, CHI 2026
 
 ### Reviewer
-- 2026 \| **Special Recognitions for Outstanding Reviews for CHI2026**
+2026 \| **Special Recognitions for Outstanding Reviews for CHI2026**
 - 2026 \| CHI: The ACM Conference on Human Factors in Computing Systems (Full Papers)
 - 2025 \| HEALTH: ACM Transactions on Computing for Healthcare
 - 2024 \| IEEE Sensors Journal
