@@ -8,18 +8,18 @@ order: 3
 
 ## Professional Service
 
-#### Associate Chair / Meta Reviewer
+### Meta Reviewer
 ```text
 2026 | Associate Chair (AC), Posters, CHI 2026
 ```
-#### Reviewer
+### Reviewer
 ```text
 2026 | CHI (Full Papers)
 2024 | CHI (LBW)
 2023 | MobileHCI (LBW)
 2022 | ISS (Full Papers)
 ```
-#### Volunteer
+### Volunteer
 ```text
 2020 | Student Volunteer, The ACM International Conference on Tangible, Embedded and Embodied Interaction (TEI)
 ```
