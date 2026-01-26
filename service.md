@@ -32,6 +32,7 @@ Special Recognitions for Outstanding Reviews for CHI2026
 ## Invited Talks
 ```text
 Nov 2025 | Purdue University — Soft Wearable Interfaces as Multimodal Platforms for AI-Enhanced Sports Skill Learning
-Oct 2024 | UbiComp/ISWC ’24 — IronTex: Using Ironable 3D Printed Objects to Fabricate and Prototype Customizable Interactive Textiles
+Oct 2024 | UbiComp/ISWC 2024 — IronTex: Using Ironable 3D Printed Objects to Fabricate and Prototype Customizable Interactive Textiles
 Apr 2024 | Keio University — Computational Design and Fabrication of Customizable Interactive Soft Devices
+Oct 2021 | ISS 2021 — Composite line designs and accuracy measurements for tactile line tracing on touch surfaces
 ```
