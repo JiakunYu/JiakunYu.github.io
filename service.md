@@ -10,7 +10,7 @@ order: 3
 
 ### Meta Reviewer
 ```text
-2026 | Associate Chair (AC), Posters, CHI 2026
+2026 | *Associate Chair (AC)*, Posters, CHI 2026
 ```
 ### Reviewer
 ```text
