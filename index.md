@@ -35,3 +35,11 @@ My current research interests lie at the intersection of soft sensors, epidermal
 {% endfor %}
 </ul>
 
+---
+
+## Visitors
+
+<p class="visitor-counter">
+  <img src="https://hits.sh/jiakunyu.github.io.svg?label=visits" alt="visits">
+</p>
+
