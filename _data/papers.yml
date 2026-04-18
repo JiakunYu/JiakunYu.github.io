@@ -6,10 +6,10 @@ papers:
     title: "AgentCoach: LLM-Based Adaptive Coaching Feedback for Motor Skill Learning"
     authors: "Dizhi Ma*, <b>Jiakun Yu*</b>, Xinyi Wang, Xiyun Hu, Liang He, Sooyeon Jeong, Karthik Ramani"
     booktitle: "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"
-    # doc-url: https://arxiv.org/abs/2512.02911
+    doc-url: https://dl.acm.org/doi/10.1145/3772318.3791652
     image: /assets/img/AgentCoach.png
     badge: "CHI '26"
-    # pdf: /assets/pdf/FluxLab.pdf
+    pdf: /assets/pdf/AgentCoach.pdf
     # video: https://www.youtube.com/watch?v=2m_OXJLXWdw
     venue: both
   - layout: paper
